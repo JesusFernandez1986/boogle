@@ -1,0 +1,122 @@
+.principal{
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    width: 30%;
+    margin: 10px auto 0;
+    height: 340px;
+    text-align: center;
+    }
+
+.titulo {
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    margin-top: 25px;
+    font-size: 30px;
+    }
+
+.alineado{
+    display: inline-block;
+    vertical-align: bottom;
+    }
+
+#b{
+
+    color:blue;
+}
+
+#o{
+    color: red;
+}
+
+#oo{
+    color: yellow;
+}
+
+#g{
+    color: blue;
+}
+
+#l{
+    color: green;
+}
+
+#e{
+    color: red;
+}
+
+.titulo2{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 15px;
+    }
+
+.contenedor-nombre{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    border: 1px solid;
+    border-radius: 15px;
+    width: 50%;
+    margin: 10px auto;
+    background-color: whitesmoke;
+    }
+
+.logo{
+    float: left;
+    position: relative;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    top: 1.5px;
+    left: 2px;
+    }
+
+.nombre{
+    margin-top: auto;
+    text-align: center;
+    font-size: 20px;
+    }
+
+.verificacion{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 5px;
+    }
+
+.contrasena{
+    background-color: lightyellow;
+    height: 30px;
+    width: 200px;
+    }
+
+input[type="password"]: focus{
+    border: 5px solid blue;
+    }
+
+.boton1{
+    margin-top: 25px;
+   }
+
+.boton2{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    margin-left: 20px;
+    background-color: #0174DF ;
+    height: 35px;
+    color: white;
+    }
+
+.boton2:hover{
+    cursor:pointer;
+    }
+
+.pie{
+    width: 30%;
+    text-align: right;
+    border-radius: 2px;
+    margin: 35px auto 0;
+    }
+
+.pie2{
+     color: #757575;
+     style: none;
+     margin: 0 5px;
+    }
